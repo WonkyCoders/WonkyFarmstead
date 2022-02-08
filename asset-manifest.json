@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Wonky-Farmstead/static/css/main.2a5b0666.css",
-    "main.js": "/Wonky-Farmstead/static/js/main.c60e47a7.js",
-    "static/js/787.bc1f1293.chunk.js": "/Wonky-Farmstead/static/js/787.bc1f1293.chunk.js",
-    "static/media/banner.png": "/Wonky-Farmstead/static/media/banner.c488396618e89ece0361.png",
-    "static/media/Avocado.png": "/Wonky-Farmstead/static/media/Avocado.00034c3e540574913683.png",
-    "static/media/Aubergine.png": "/Wonky-Farmstead/static/media/Aubergine.6a1cbcfdddd48b968fc5.png",
-    "static/media/Wonky-Boxgarlic-.png": "/Wonky-Farmstead/static/media/Wonky-Boxgarlic-.d0ea21f4b3b10e5f5147.png",
-    "index.html": "/Wonky-Farmstead/index.html",
-    "main.2a5b0666.css.map": "/Wonky-Farmstead/static/css/main.2a5b0666.css.map",
-    "main.c60e47a7.js.map": "/Wonky-Farmstead/static/js/main.c60e47a7.js.map",
-    "787.bc1f1293.chunk.js.map": "/Wonky-Farmstead/static/js/787.bc1f1293.chunk.js.map"
+    "main.css": "/WonkyFarmstead/static/css/main.2a5b0666.css",
+    "main.js": "/WonkyFarmstead/static/js/main.066df3c1.js",
+    "static/js/787.bc1f1293.chunk.js": "/WonkyFarmstead/static/js/787.bc1f1293.chunk.js",
+    "static/media/banner.png": "/WonkyFarmstead/static/media/banner.c488396618e89ece0361.png",
+    "static/media/Avocado.png": "/WonkyFarmstead/static/media/Avocado.00034c3e540574913683.png",
+    "static/media/Aubergine.png": "/WonkyFarmstead/static/media/Aubergine.6a1cbcfdddd48b968fc5.png",
+    "static/media/Wonky-Boxgarlic-.png": "/WonkyFarmstead/static/media/Wonky-Boxgarlic-.d0ea21f4b3b10e5f5147.png",
+    "index.html": "/WonkyFarmstead/index.html",
+    "main.2a5b0666.css.map": "/WonkyFarmstead/static/css/main.2a5b0666.css.map",
+    "main.066df3c1.js.map": "/WonkyFarmstead/static/js/main.066df3c1.js.map",
+    "787.bc1f1293.chunk.js.map": "/WonkyFarmstead/static/js/787.bc1f1293.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a5b0666.css",
-    "static/js/main.c60e47a7.js"
+    "static/js/main.066df3c1.js"
   ]
 }
